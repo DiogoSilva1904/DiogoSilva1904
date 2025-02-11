@@ -7,11 +7,11 @@
   🇵🇹 From Portugal | 🎂 21 years old
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/DiogoSilva1904">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Engineer;Backend+Specialist;Tech+Enthusiast" alt="Typing SVG">
   </a>
-</p>
+</p>-->
 
 ---
 
