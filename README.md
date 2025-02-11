@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🇵🇹 From Portugal | 🎂 25 years old
+  🇵🇹 From Portugal | 🎂 21 years old
 </p>
 
 <p align="center">
