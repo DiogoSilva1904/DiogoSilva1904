@@ -1,24 +1,48 @@
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hi, I'm Diogo Silva!
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Diogo+Silva!;I'm+from+Portugal!;I'm+21+years+old!)](https://github.com/DenverCoder1/readme-typing-svg)
+<p align="center">
+  🇵🇹 From Portugal | 🎂 25 years old
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoSilva1904&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/DiogoSilva1904">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Engineer;Backend+Specialist;Tech+Enthusiast" alt="Typing SVG">
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSilva1904&show_icons=true&theme=dark&layout=compact)
+---
 
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiogoSilva1904&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoSilva1904&theme=radical" height="150">
+</p>
 
+---
 
+### 🚀 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSilva1904&layout=compact&theme=radical" height="150">
+</p>
 
-<!--
-**DiogoSilva1904/DiogoSilva1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚡ **Technologies & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,typescript,kotlin,flutter,angular,spring,mysql,docker,git,github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
