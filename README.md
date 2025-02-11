@@ -17,8 +17,8 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=DiogoSilva1904&show_icons=true&theme=radical" height="150">-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoSilva1904&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiogoSilva1904&show_icons=true&theme=radical" height="150">
+  <img src="https://camo.githubusercontent.com/1b5787602b424b1839c4b5d4e7706bb57c1490ebada59ee012decd3804efdcae/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d44696f676f53696c766131393034267468656d653d7261646963616c" height="150">
 </p>
 
 ---
