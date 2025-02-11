@@ -4,9 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSilva1904&show_icons=true&theme=dark&layout=compact)
 
-![Diogo's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=DiogoSilva1904&theme=dark&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Diogo+Silva!;I'm+from+Portugal!;I'm+25+years+old!)](https://github.com/DenverCoder1/readme-typing-svg)
 
-![Diogo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiogoSilva1904&theme=github-dark&hide_border=true)
 
 
 <!--
