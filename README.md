@@ -1,10 +1,10 @@
-### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Diogo+Silva!;I'm+from+Portugal!;I'm+21+years+old!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoSilva1904&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSilva1904&show_icons=true&theme=dark&layout=compact)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Diogo+Silva!;I'm+from+Portugal!;I'm+25+years+old!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 
 
