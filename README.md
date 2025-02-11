@@ -17,7 +17,7 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiogoSilva1904&show_icons=true&theme=radical" height="150">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=DiogoSilva1904&show_icons=true&theme=radical" height="150">-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoSilva1904&theme=radical" height="150">
 </p>
 
