@@ -32,8 +32,9 @@
 
 ### ⚡ **Technologies & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,typescript,kotlin,flutter,angular,spring,mysql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,kotlin,flutter,angular,spring,postgresql,mysql,redis,mongodb,cassandra,docker,git,github,maven,linux,aws,rabbitmq,junit,selenium,cucumber,Mockito,fastapi,flask" />
 </p>
+
 
 ---
 
