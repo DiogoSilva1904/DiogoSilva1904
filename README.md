@@ -4,6 +4,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSilva1904&show_icons=true&theme=dark&layout=compact)
 
+![Diogo's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=DiogoSilva1904&theme=dark&hide_border=true)
+
+![Diogo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiogoSilva1904&theme=github-dark&hide_border=true)
+
+
 <!--
 **DiogoSilva1904/DiogoSilva1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
